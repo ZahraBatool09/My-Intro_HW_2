@@ -1,2 +1,1 @@
-# firstRepo
-Art and Design
+# My Intro_HW_2
